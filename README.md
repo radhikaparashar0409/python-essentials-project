@@ -1,12 +1,12 @@
 # python-essentials-project
 A terminal-based toolkit executing core mathematical algorithms and array analysis operations for Python Essentials.
-markdown# 📊 Advanced Math & Array Analytics Toolkit
+markdown# Advanced Math & Array Analytics Toolkit
 
 This is a console-based (terminal-based) Python application that executes core mathematical algorithms and array manipulation operations. The project is built entirely using native, foundational Python features without relying on external libraries.
 
 ---
 
-## 🛠️ Core Features & Syllabus Mapping
+## Core Features & Syllabus Mapping
 
 This application incorporates multiple primary algorithms directly aligned with **Units 3, 4, and 5** of the course syllabus:
 
@@ -16,7 +16,7 @@ This application incorporates multiple primary algorithms directly aligned with 
 
 ---
 
-## 💻 Setup & Execution Instructions
+## Setup & Execution Instructions
 
 This project runs 100% natively and requires zero external dependency installations. Follow these steps to execute the script in your terminal environment:
 
