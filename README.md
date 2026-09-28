@@ -37,6 +37,6 @@ This project runs 100% natively and requires zero external dependency installati
 
 ---
 
-## 📐 System Architecture Workflow
+## System Architecture Workflow
 
 The application acts through a centralized control system that dynamically branches system operations based on selected dashboard operations:
