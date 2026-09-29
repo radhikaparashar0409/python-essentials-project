@@ -1,4 +1,3 @@
-==========================================
 # COURSE EVALUATION PROJECT: CORE ENGINE
 # Built to align with Units 3, 4, and 5 syllabus
 # ==========================================
